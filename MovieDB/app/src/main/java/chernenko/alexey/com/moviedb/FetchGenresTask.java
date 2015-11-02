@@ -22,7 +22,7 @@ public class FetchGenresTask extends AsyncTask<Void,Void,String> {
         BufferedReader reader=null;
         StringBuffer stringBuffer=null;
 
-        final String API_KEY="ac58357d81a0606fca23bc2dce6bbdb6";
+        final String API_KEY="Movie DB api key goe here";
         final String MOVIE_BASE_URL="http://api.themoviedb.org/3/genre/movie/list";
 
 

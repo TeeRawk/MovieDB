@@ -23,7 +23,7 @@ public class FetchMoviewTask extends AsyncTask <String,Object,String> {
         BufferedReader reader=null;
         StringBuffer stringBuffer=null;
 
-        final String API_KEY="ac58357d81a0606fca23bc2dce6bbdb6";
+        final String API_KEY="Movie Db api key goes here";
         final String MOVIE_BASE_URL="http://api.themoviedb.org/3/discover/movie?";
         final String SORT_VALUE="popularity.desc";
         final String PAGE_VALUE=params[0];
