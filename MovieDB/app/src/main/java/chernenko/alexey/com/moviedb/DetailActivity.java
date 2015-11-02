@@ -14,7 +14,7 @@ import com.google.android.youtube.player.YouTubePlayerFragment;
 
 public class DetailActivity extends AppCompatActivity  implements YouTubePlayer.OnInitializedListener {
     private Toolbar toolbar;
-    private final static String DEVELOPER_KEY="AIzaSyDMX3dZzJERAU-6BOFQv8dDCeLrOyh2d2I";
+    private final static String DEVELOPER_KEY="google developer key goes here";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
